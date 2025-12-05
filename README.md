@@ -3,23 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ProSolver Privacy Policy</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 900px;
-            margin: auto;
-            padding: 20px;
-            line-height: 1.6;
-            color: #222;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        a {
-            color: #0077cc;
-        }
-    </style>
+   
 </head>
 <body>
 
