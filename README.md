@@ -70,7 +70,7 @@
 <h2>8. Contact</h2>
 <p>
     If you have any questions or concerns regarding this Privacy Policy, please contact us at:<br />
-    <strong>sodonikamobile@gmail.com</strong>
+    <strong>finalplaystudio@gmail.com</strong>
 </p>
 
 </body>
